@@ -1,8 +1,8 @@
 # The World in One Day — Friday 20 November 2026
 
-[![make.fun](https://img.shields.io/badge/make.fun-news--image--20261120-12233f)](https://github.com/ipaludhi/world-in-one-day-20-nov-2026)
-[![stories](https://img.shields.io/badge/48%20stories-7%20regions-3d9970)](https://github.com/ipaludhi/world-in-one-day-20-nov-2026)
-[![reward](https://img.shields.io/badge/reward-%24250%20pot-f5c518)](https://github.com/ipaludhi/world-in-one-day-20-nov-2026)
+[![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/ipaludhi/world-in-one-day-20-nov-2026/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/ipaludhi/world-in-one-day-20-nov-2026/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 
 Entry for make.fun's **news-image-20261120** bounty: *"Sum up 20 November's world news in one image."* One front-page poster (`entry.png`, 1024×1024, 296 KB) that sums up Friday 20 November 2026 — **48 verified stories across 7 regions**, with a UTC timeline.
 
